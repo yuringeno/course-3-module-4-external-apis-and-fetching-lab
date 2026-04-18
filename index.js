@@ -1,5 +1,3 @@
-// index.js
-
 document.addEventListener("DOMContentLoaded", function () {
   const weatherApi = "https://api.weather.gov/alerts/active?area=";
   const btnFetch = document.getElementById("fetch-alerts");
